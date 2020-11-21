@@ -1,3 +1,3 @@
-# jak to sie robi aaaaaaaa
-## czemu mi strona nie dziala
-### jak zrobic zeby dzialala
+# Witaj, oto moja strona utworzona przy pomocy Github Pages.
+## Może napijesz się kawy, tajemniczy przybyszu?
+### Mam też herbatę jeśli wolisz...
